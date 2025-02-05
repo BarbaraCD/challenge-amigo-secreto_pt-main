@@ -16,6 +16,11 @@ Para utilizar o sorteio de amigo secreto, siga os seguintes passos:
 1. **Adicionar Amigos**: No campo de texto, insira o nome de um amigo e clique em "Adicionar". Repita o processo até adicionar todos os amigos.
 2. **Realizar Sorteio**: Clique no botão "Sortear Amigo Secreto" para ver os resultados do sorteio.
 
+## Projeto Hospedado
+
+Você pode acessar o projeto hospedado diretamente pelo seguinte link:  
+**[Projeto Amigo Secreto](https://challenge-amigo-secreto-pt-main-blush.vercel.app/)**
+
 ## Estrutura do Projeto
 
 O projeto é composto pelos seguintes arquivos:
